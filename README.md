@@ -1,4 +1,8 @@
-### Hi there 👋
+<div>
+<h1>Olá! Sou Gustavo Silva🕵️‍♂️, tudo bem?</h1>
+<h3>Da um ligue ai em baixo pra tu ver o que eu faço</h3>
+</div>
+<img src="https://cdn.geekwire.com/wp-content/uploads/2012/02/nerd-bigstock_Extreme_Computer_Nerd_1520708.jpg" height= 200px>
 
 <!--
 **GustavSilvDev/GustavSilvDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
